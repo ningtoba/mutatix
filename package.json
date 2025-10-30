@@ -12,6 +12,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@pdfme/common": "^5.4.6",
+    "@pdfme/ui": "^5.4.6",
     "@tailwindcss/vite": "^4.1.16",
     "@vueuse/core": "^14.0.0",
     "flowbite": "^3.1.2",
